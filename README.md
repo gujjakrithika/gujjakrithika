@@ -1,7 +1,7 @@
 # Hello , I'm Krithi 👋
 
 ### 🚀 About Me
-- 💻 Full-stack Developer | AI Enthusiast
+- 💻 AI Enthusiast | Data analysis
 - 🎯 Passionate about solving real-world problems with technology
 - 🌱 Currently working on project which cater small scale farmers
 - 📚 Learning ML
